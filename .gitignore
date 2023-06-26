@@ -1,0 +1,2 @@
+*.log           # Ignore all files with the .log extension
+secret.txt      # Ignore a file named secret.txt
